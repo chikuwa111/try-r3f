@@ -9,6 +9,7 @@
     "fmt": "prettier -w ."
   },
   "dependencies": {
+    "@react-three/drei": "^9.14.3",
     "@react-three/fiber": "^8.0.27",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
